@@ -23,7 +23,7 @@ const NumberSelector = ({setError, error, selectedNumber, setSelectedNumber}) =>
         </Box>
       ))}
     </div>
-    <p>Seclet Number</p>
+    <p>Select Number</p>
     </NumberSelectorContainer>
   )
 }
